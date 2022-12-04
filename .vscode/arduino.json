@@ -1,0 +1,6 @@
+{
+    "sketch": "type1_main_ver2.ino",
+    "output": "build",
+    "board": "arduino:avr:uno",
+    "port": "COM3"
+}
